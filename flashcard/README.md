@@ -1,6 +1,14 @@
 # flashcard
 
-A new Flutter project.
+Screenshots:
+
+<div style="display:flex; flex-wrap: wrap; gap: 10px;justify-content: center;">
+<img src="./assets/img_1.png" width="250">
+<img src="./assets/img_2.png" width="250">
+<img src="./assets/img_3.png" width="250">
+<img src="./assets/img_4.png" width="250">
+
+</div>
 
 ## Getting Started
 
